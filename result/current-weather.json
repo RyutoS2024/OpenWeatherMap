@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 139.6917,
+    "lat": 35.6895
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "曇りがち",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 17.7,
+    "feels_like": 17.25,
+    "temp_min": 16.48,
+    "temp_max": 18.77,
+    "pressure": 1017,
+    "humidity": 66
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.6,
+    "deg": 130
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1713002844,
+  "sys": {
+    "type": 2,
+    "id": 268395,
+    "country": "JP",
+    "sunrise": 1712952663,
+    "sunset": 1712999522
+  },
+  "timezone": 32400,
+  "id": 1850144,
+  "name": "東京都",
+  "cod": 200
+}
